@@ -1,1 +1,2 @@
-puts "Hello Artemis!" 
+puts "Hello Artemis!"
+puts "Hello, James!" 
